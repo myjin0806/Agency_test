@@ -6,7 +6,7 @@
 > 2024.09.02
 
 ## 배포 주소
-> [Agency_test](https://myjin0806.github.io/agency_test/)
+> [test_agency](https://myjin0806.github.io/test_agency/)
 
 | DESKTOP                                                                                                     |
 | :----------------------------------------------------------------------------------------------------------------------- |
